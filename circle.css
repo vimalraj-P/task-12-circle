@@ -1,0 +1,46 @@
+.circle{
+    height: 800px;
+    width: 800px;
+    top: 0%;
+    background-color: rgb(59, 211, 211);
+    border-radius: 50%;
+    margin: auto;
+    position: relative;
+}
+
+.box{
+    width: 530px;
+    height: 500px;
+    top: 18%;
+    background-color: antiquewhite;
+    position: absolute;
+    left: 17.5%;
+}
+
+.btn-style{
+    margin: 3px;
+    width: 76%;
+    margin-left: 10px;
+    height: 40px;
+    border-radius: 5px ;
+    background-color: rgb(38, 139, 223);
+    color: white;
+    border: 1px rgb(71, 71, 182);
+}
+
+.foom-control{
+    margin:10px;
+    height: 40px;
+}
+.close{
+    position: absolute;
+    top: 16%;
+    left: 82%;
+}
+.rounded-btn{
+    border-radius: 50%;
+    background-color: antiquewhite;
+    border-style: none;
+    box-shadow: 2px 2px 4px rgb(3, 3, 3);
+    padding: 6px 12px;
+}
